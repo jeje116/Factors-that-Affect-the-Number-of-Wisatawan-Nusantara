@@ -1,5 +1,5 @@
 # Factor-that-Affect-the-Number-of-Wisatawan-Nusantara
-This project is the final project of the Linear Regression Analysis course. The research paper of this project can be accessed using this [link![]([http://img.shields.io/badge/Paper-arXiv.2104.00298-B3181B?logo=arXiv)](https://arxiv.org/abs/2104.00298](https://drive.google.com/file/d/1_7ep4rll6HAXbqoTPnzaOIrvyQiyx8XO/view?usp=sharing))
+This project is the final project of the Linear Regression Analysis course. The research paper of this project can be accessed using this [link](https://drive.google.com/file/d/1_7ep4rll6HAXbqoTPnzaOIrvyQiyx8XO/view?usp=sharing)
 
 ### Language Used
 * R
