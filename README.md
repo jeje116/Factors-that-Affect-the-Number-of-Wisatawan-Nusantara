@@ -4,7 +4,7 @@ This project is the final project of the Linear Regression Analysis course. The 
 ### Language Used
 * R
 
-### ToolS Used
+### Tools Used
 * R Studio
 
 ## Project Description
